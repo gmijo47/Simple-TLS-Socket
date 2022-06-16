@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Version>6.2.0.0</Version>
+    <Authors>Galić Mijo</Authors>
+    <Copyright>SERB-CRAFT 2022</Copyright>
+    <RepositoryUrl></RepositoryUrl>
+    <Description>Addon for SERB-CRAFT AntiCheat</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl></PackageProjectUrl>
+    <PackageTags></PackageTags>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <IncludeSymbols>true</IncludeSymbols>	
+    <SymbolPackageFormat>snupkg</SymbolPackageFormat>	
+  </PropertyGroup>
+
+</Project>
